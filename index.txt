@@ -1,1 +1,2 @@
 penambahan value oleh branch_a di index.txt
+penambahan value oleh branch_b di index.txt
