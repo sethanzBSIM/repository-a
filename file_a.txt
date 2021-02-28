@@ -1,1 +1,2 @@
 ﻿init value for branch_a
+set value branch_a = 1
