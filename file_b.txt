@@ -1,1 +1,2 @@
 ﻿init value for branch_b
+Isi langsung dari github
